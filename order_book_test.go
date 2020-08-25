@@ -1,4 +1,4 @@
-package matching-engine
+package engine
 
 import (
 	"math"

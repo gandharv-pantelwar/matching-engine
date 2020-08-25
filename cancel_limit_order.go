@@ -1,4 +1,4 @@
-package matching-engine
+package engine
 
 // CancelOrder remove the order from book and returns
 func (ob *OrderBook) CancelOrder(id string) *Order {
