@@ -1,4 +1,4 @@
-package engine
+package matching-engine
 
 import (
 	"encoding/json"
