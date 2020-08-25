@@ -1,4 +1,4 @@
-module github.com/gandharv-pantelwar/matching-engine
+module github.com/gandharv-pantelwar/engine
 
 go 1.14
 
